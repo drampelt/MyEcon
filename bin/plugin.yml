@@ -1,0 +1,5 @@
+name: MyEcon
+
+main: com.bukkit.DanielR.MyEcon.MyEcon
+
+version: 0.1
